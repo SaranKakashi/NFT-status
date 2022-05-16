@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
 #body{
     height: auto;
-    width: 100%;
+    width: 1440px;
     display: flex;
     flex-direction: column;
     justify-content: center;
