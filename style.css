@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+#body{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(217, 54%, 11%);
+}
+#div{
+    margin:5px;
+    position : relative;
+    top:141px;
+    left:0px;
+    background-color: hsl(216, 50%, 16%);
+    height: 269px;
+    width : 179px;
+    border-radius:10px;
+    box-shadow:0px 10px 60px 15px black;
+}
+#img1{
+    position:absolute;
+    top:8px;
+    left:19px;
+    border-radius: 10px;
+    height: 141px;
+    width: auto;
+}
+#p1{
+    color : hsl(0, 0%, 100%);
+    position:absolute;
+    top:146px;
+    left:16px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    font-size : 12px;
+}
+#p2{
+    color:  rgb(201, 201, 201);
+    position:absolute;
+    top:172px;
+    left:16px;
+    font-family: 'Outfit', sans-serif;
+    font-size : 9px;
+}
+#p3{
+    color: hsl(178, 100%, 50%);
+    position:absolute;
+    top:203px;
+    left:27px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size : 10px;
+}
+#p4{
+    color:  rgb(201, 201, 201);
+    position:absolute;
+    top:208px;
+    left:131px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+    font-size : 8px;
+}
+#p5{
+    position:absolute;
+    top: 236px;
+    left:45px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+    font-size : 9px;
+}
+.attribution{
+    position : absolute;
+    top: 461px;
+    left: 465px;
+    text-align: center;
+    place-items: center;
+
+}
+#line{
+    color:  hsl(215, 32%, 27%);
+    position:absolute;
+    top:205px;
+    left: 14px;
+    font-size: 14px;
+}
+#img2{
+    position:absolute;
+    top:242px;
+    left:14px;
+    height: 17px;
+    width:auto;
+    border: 1px groove;
+    border-radius: 43px;
+    border-color: hsl(0, 0%, 100%);
+}
+#white{
+    position: absolute;
+    top:236px;
+    left:94px;
+    color : hsl(0, 0%, 100%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+    font-size : 9px;
+
+}
+#ethereum{
+    position:absolute;
+    top:213px;
+    left:15px;
+    height:13px;
+    width:auto;
+}
+#clock{
+    
+    position:absolute;
+    top:216px;
+    left:118px;
+    height:10px;
+    width:auto;
+}
